@@ -37,8 +37,8 @@ application:
       path: https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
       type: easylist
 
-    - name: xndeye web-ad-rule
-      path: https://raw.githubusercontent.com/xndeye/web-ad-rule/master/easylist.txt
+    - name: hagezi/dns-blocklists
+      path: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
       type: easylist
 
     - name: xinggsf movie
@@ -62,11 +62,11 @@ application:
       type: easylist
 
     - name: Telemetry Lists - Aggregated
-      path: https://raw.githubusercontent.com/SystemJargon/filters/refs/heads/main/telemetry.txt
+      path: https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/OISD_Basic.txt
       type: dns
 
-    - name: '1Hosts Lite'
-      path: 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt'
+    - name: 217heidai
+      path: https://github.boki.moe/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/Pollock_hosts.txt
       type: dns
 
     - name: 'xndeye private adblock list'
